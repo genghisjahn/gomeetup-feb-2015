@@ -1,4 +1,4 @@
-Philly Go Meetup October 2014
+Philly Go Meetup February 2015
 ================
 
 Slides for Philly Golang Meetup February 2015
