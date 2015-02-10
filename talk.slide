@@ -1,0 +1,69 @@
+Hello, Gophers
+Philly GoMeetup
+10 Feb 2015
+
+Jon Wear
+DramaFever.com
+@genghisjahn
+
+
+* Gobots!
+
+Are harder to program that you might think...but still pretty fun.
+
+.image http://upload.wikimedia.org/wikipedia/en/f/f6/GobotToys.jpg
+
+
+
+
+* Gobots.io
+
+You can find the package here: [[http://gobot.io/][http://gobot.io/]]
+
+They also have projects for other langauges:
+
+Artoo for Ruby: [[http://artoo.io/][http://artoo.io/]]
+Cylon for Javascript: [[http://cylonjs.com/][http://cylonjs.com/]]
+
+
+* My Robot
+
+The robot I'll be using is the Sphero 2.0
+
+.image http://www.gosphero.com/wp-content/uploads/SpheroFeatureGraphic11.jpg
+
+
+* Inpho on the Sphero
+
+You can pick it up on Amazon for $130
+
+It comes with some apps/games you can download for iOS & Android to control it.
+
+Keep out of reach of children, you won't get it back.
+
+
+* Getting Started with Gobot.io
+
+The documentation is lacking.
+
+They know it.
+
+They want help.
+
+* The missing steps
+
+[[http://gobot.io/documentation/platforms/sphero/][http://gobot.io/documentation/platforms/sphero/]]
+
+You need the serial package.
+
+[[https://github.com/tarm/goserial][https://github.com/tarm/goserial]]
+
+Get the name of your device from /dev/{something tty.*Sphero*} and paste that into the getting started code.
+
+* Now for the demo!
+
+Square
+Collide
+Escape
+
+(Wish me luck...)
